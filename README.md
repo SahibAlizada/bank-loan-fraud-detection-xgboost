@@ -36,8 +36,8 @@ The dataset includes:
    - Correlation heatmaps
 
 ## 🎯 Results
-- Model Accuracy: **~XX%** *(dəqiq nəticəni sən qeyd edə bilərsən)*
-- The most important features influencing fraud detection were: `feature1`, `feature2`, `GPU`, `amount` *(burada əsas xüsusiyyətləri sən əlavə edə bilərsən)*
+- Model Accuracy: **~73%**
+- The most important features influencing fraud detection were: `MaritalStatus`, `Collateral`, `InterestRate`, `DeviceInformation`,`SocialMediaFootprint`,`LoanAmountRequested`
 
 ## 🛠️ Technologies Used
 - Python
